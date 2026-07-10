@@ -19,6 +19,7 @@
         <dependency>
             <groupId>software.amazon.awssdk</groupId>
             <artifactId>bundle</artifactId>
+            <version>${aws-v2-sdk.version}</version>
         </dependency>
     </dependencies>
 
