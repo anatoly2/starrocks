@@ -1535,6 +1535,13 @@ under the License.
                 </exclusions>
             </dependency>
 
+            <!-- https://mvnrepository.com/artifact/org.antlr/antlr4 -->
+            <dependency>
+                <groupId>org.antlr</groupId>
+                <artifactId>antlr4</artifactId>
+                <version>${antlr.version}</version>
+            </dependency>
+
             <!-- https://mvnrepository.com/artifact/org.antlr/antlr4-runtime -->
             <dependency>
                 <groupId>org.antlr</groupId>
